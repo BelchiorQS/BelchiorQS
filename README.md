@@ -9,13 +9,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=belchiorqs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belchiorqs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-<a href="https://github.com/belchiorqs/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=belchiorqs&show_icons=true&theme=tokyonight&include_all_commits=true" />
-</a>
-<a href="https://github.com/belchiorqs/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=belchiorqs&layout=compact&langs_count=8&card_width=320" />
-</a>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Belchior-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
