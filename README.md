@@ -9,7 +9,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belchiorqs&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Skills and Experience
+## Skills and Experience
 <br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=belchiorqs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -26,13 +26,6 @@
   <img align="center" alt="Belchior-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Belchior-Shell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
-
-## Projects
-Here are some of the projects I've worked on recently:
-
-1. **Project 1**: Description of project 1
-2. **Project 2**: Description of project 2
-3. **Project 3**: Description of project 3
 
 ## Contact Me
 
