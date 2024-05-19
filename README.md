@@ -13,7 +13,7 @@
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-profile-trophy.vercel.app/?username=belchiorqs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" style="width: 45%; height: auto;" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=belchiorqs&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" style="width: 52%; height: 190%;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=belchiorqs&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" style="width: 52%; height:190%;" />
 </div>
 
 
